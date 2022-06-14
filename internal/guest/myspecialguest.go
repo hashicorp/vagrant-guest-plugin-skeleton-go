@@ -7,7 +7,7 @@ import (
 	plugincore "github.com/hashicorp/vagrant-plugin-sdk/core"
 )
 
-// UbuntuGuest is a Guest implementation.
+// MySpecialGuest is a Guest implementation.
 type MySpecialGuest struct {
 }
 

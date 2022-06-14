@@ -2,9 +2,9 @@
 
 Ever wished you could spin up a Vagrant guest plugin right quick? Now, with vagrant-guest-plugin-skeleton you can! Follow these steps:
 
-1. Clone this repo
+1. Copy this repo. Its a template so follow the Github instructions to [create a repo from a template using the UI](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template), or use the github cli.
 ```
-$ git clone soapy1/vagrant-guest-plugin-skeleton
+$ gh repo create vagrant-guest-myspecialguest --template soapy1/vagrant-guest-plugin-skeleton --public
 ```
 
 2. Setup your go project
